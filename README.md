@@ -1,28 +1,20 @@
-### Hi there 👋 
-
-I'm Michael, I'm 23 years old and I'm currently learning in this world of Web development.
-I’m currently learning about JavaScript and React !!!! 
-
-- 🔭 I’m currently student on my last year in Instrumentation & Control. 
-- 🌱 I’m currently learning ... JavaScript and React
-- 👯 I am looking to collaborate with people who, like me, are just starting out and want to create fun web pages or landing pages.
-- 🤔 I’m looking for help with practice JavaScript
-- 📫 how to contact me Just write to this email michaelrespond99@gmail.com
+# Hello 👋🏾 👩🏾‍💻 I´m Michael Peters 
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
-<!--
-**MikeQp98/MikeQp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+//Contacto Este No se mueve pero de debe editarrrr **/// 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+ <h2> Communication </h2>
+        <p float="left">
+  
+  [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/mustafadalga) &nbsp;&nbsp;
+  [![website](https://user-images.githubusercontent.com/25087769/87173861-0aa06200-c2df-11ea-9614-da65c9c73692.png)](https://apierson.com) &nbsp;&nbsp;
+  [![github](https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png)](https://github.com/mustafadalga) &nbsp;&nbsp;
+  [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:mustafadalgaa@gmail.com)
+ 
+</p>
