@@ -23,9 +23,12 @@ I am a young man, who has always been interested in learning new things and taki
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://paraisolinux.com/wp-content/uploads/2014/12/gulp-2x.png" alt="sass" width="40" height="55"/> </a> 
-    
+   
 </p>
 
+## ⚡ Activity:
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MikeQp98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
