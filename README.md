@@ -21,7 +21,7 @@ I am a young man, who has always been interested in learning new things and taki
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-     <a href="https://git-scm.com/" target="_blank"> <img src="https://es.wikipedia.org/wiki/Sass#/media/Archivo:Sass_Logo_Color.svg"/> </a> 
+     <a href="https://git-scm.com/" target="_blank"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/Sass-Logo-500x313.png"/> </a> 
     
 </p>
 
