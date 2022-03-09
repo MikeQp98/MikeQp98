@@ -1,6 +1,8 @@
 # Hello 👋🏾 👩🏾‍💻 I´m Michael Peters 
 
-https://i.postimg.cc/y63Mk7QV/Frontend-Developer.png
+
+
+<img src="https://i.postimg.cc/y63Mk7QV/Frontend-Developer.png"/> 
 
 I am a young man, who has always been interested in learning new things and taking advantage of time very well, I do not usually give up easily, I usually try many times until I finally find the solution. Similarly, I have always been interested in the world of technology and computers. If you need help with any project, just contact me, and I'll gladly give you a hand.
 
@@ -20,7 +22,7 @@ I am a young man, who has always been interested in learning new things and taki
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
+   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://paraisolinux.com/wp-content/uploads/2014/12/gulp-2x.png" alt="sass" width="40" height="55"/> </a> 
