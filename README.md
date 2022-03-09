@@ -1,5 +1,6 @@
 # Hello 👋🏾 👩🏾‍💻 I´m Michael Peters 
 
+https://i.postimg.cc/y63Mk7QV/Frontend-Developer.png
 
 I am a young man, who has always been interested in learning new things and taking advantage of time very well, I do not usually give up easily, I usually try many times until I finally find the solution. Similarly, I have always been interested in the world of technology and computers. If you need help with any project, just contact me, and I'll gladly give you a hand.
 
