@@ -8,12 +8,22 @@
 
 I am a young man, who has always been interested in learning new things and taking advantage of time very well, I do not usually give up easily, I usually try many times until I finally find the solution. Similarly, I have always been interested in the world of technology and computers. If you need help with any project, just contact me, and I'll gladly give you a hand.
 
--🌱 I’m currently learning JavaScript
+-🌱 I’m currently learning JavaScript.
 -👯 I’m looking to collaborate on WEB Projects
 -🤔 I’m looking for help with API (development)
 -⚡ Fun fact: If I'm not found here, I'll most probably watch F1!!!!!
 
+## 🚀 Soft Skills:
 
+🌱Empathic.
+
+🌱Proactive.
+
+🌱teamwork.
+
+🌱Analytical capacity.
+
+🌱Attention to detail.
 
 ## 🚀 Languages and Tools:
 
