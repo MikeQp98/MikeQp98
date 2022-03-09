@@ -2,7 +2,7 @@
 
 
 
-<img src="https://i.postimg.cc/y63Mk7QV/Frontend-Developer.png"/> 
+<img src="https://i.postimg.cc/HxFL7BHx/Frontend-Developer-Completo.png"/> 
 
 ## 🚀 About Me:
 
