@@ -6,7 +6,7 @@
 
 ## 🚀 About Me:
 
-I am a young man, who has always been interested in learning new things and taking advantage of time very well, I do not usually give up easily, I usually try many times until I finally find the solution. Similarly, I have always been interested in the world of technology and computers. If you need help with any project, just contact me, and I'll gladly give you a hand.
+I am a young enthusiast in the computer world, especially in IT. I have always been interested in learning new things and make good use of my time, I have experience in C language, Ladder, JavaScript, among others. Currently I am deepening my studies in JavaScript and DOM. If you need help with any project, just contact me and I will gladly give you a hand.
 
 -🌱 I’m currently learning JavaScript.
 -👯 I’m looking to collaborate on WEB Projects
